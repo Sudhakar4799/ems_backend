@@ -1,0 +1,120 @@
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-01T05:52:09.653Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-01T08:11:47.220Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-01T08:12:38.916Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-01T08:45:51.654Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-01T08:46:02.541Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-01T12:37:13.424Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-02T03:05:49.110Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-02T05:41:43.660Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-02T05:41:54.614Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-02T08:26:47.645Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-02T08:26:58.634Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-02T13:14:39.648Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-02T13:14:50.604Z'
+}
+{
+  message: 'Database Connection Disconnected',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-02T14:06:14.655Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-02T14:06:25.649Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-05T04:01:06.866Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-05T06:05:35.973Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-05T07:34:07.532Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-05T10:01:04.520Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Demo App Service',
+  timestamp: '2024-08-05T12:35:19.660Z'
+}
